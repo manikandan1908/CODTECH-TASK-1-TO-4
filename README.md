@@ -56,18 +56,34 @@ The dataset contains information about orders, categories, regions, sales, and p
 ### Insights
 - Model performance can be improved with more features or advanced regression algorithms.
 
+## Task 3: Interactive Dashboard Development
 
-# CODTECH Data Analysis Internship
+### Objective
+To create an interactive dashboard using Power BI to visualize sales data and extract actionable insights.
 
-This repository contains all tasks completed as part of the CODTECH Data Analysis Internship.
+### Dataset
+- large_sales_data.csv
+- Columns:
+  - Order_ID
+  - Category
+  - Region
+  - Sales
+  - Profit
 
----
+### Tool Used
+- Power BI Desktop
 
+### Dashboard Features
+- Total Sales by Category (Bar Chart)
+- Sales by Region and Category (Stacked Column Chart)
+- Sales vs Profit Analysis (Scatter Chart)
+- KPI Cards for Total Sales and Total Profit
+- Interactive Slicers (List type) for Region and Category
 
-
-
-
-
+### Insights
+- Certain categories generate higher sales
+- Some regions contribute more to overall profit
+- Sales and profit show a positive trend relationship
 
 
 ## Task 4: Sentiment Analysis using NLP
@@ -115,5 +131,5 @@ To perform sentiment analysis on textual data and classify reviews as Positive o
 
 ---
 
-### File
-- `Task4_Sentiment_Analysis.ipynb`
+
+Thank you for the opportunity. I have successfully completed all the internship tasks and submitted them within the deadline.
